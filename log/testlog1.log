@@ -1,0 +1,13 @@
+2024-08-08 11:18:26,166 [main] INFO Luma_TestCases.TC_001_Luma_CreateAccount - link clicking activityis completed
+2024-08-08 11:20:00,009 [main] INFO Luma_TestCases.TC_001_Luma_CreateAccount - link clicking activityis completed
+2024-08-08 11:23:15,366 [main] INFO Luma_TestCases.TC_001_Luma_CreateAccount - link clicking activityis completed
+2024-08-08 11:23:19,098 [main] INFO Luma_TestCases.TC_001_Luma_CreateAccount - account created
+2024-08-08 11:50:28,680 [main] INFO Luma_TestCases.TC_001_Luma_CreateAccount - link clicking activityis completed
+2024-08-08 11:50:33,247 [main] INFO Luma_TestCases.TC_001_Luma_CreateAccount - account created
+2024-08-08 11:54:25,306 [main] INFO Luma_TestCases.TC_001_Luma_CreateAccount - link clicking activityis completed
+2024-08-08 11:54:29,338 [main] INFO Luma_TestCases.TC_001_Luma_CreateAccount - account created
+2024-08-08 12:01:25,342 [main] INFO Luma_TestCases.TC_001_Luma_CreateAccount - link clicking activityis completed
+2024-08-08 12:01:29,632 [main] INFO Luma_TestCases.TC_001_Luma_CreateAccount - account created
+2024-08-08 12:20:27,739 [main] INFO Luma_TestCases.TC_001_Luma_CreateAccount - link clicking activityis completed
+2024-08-08 12:20:31,181 [main] INFO Luma_TestCases.TC_001_Luma_CreateAccount - Testcase is failed
+2024-08-08 12:20:31,182 [main] INFO Luma_TestCases.TC_001_Luma_CreateAccount - account created

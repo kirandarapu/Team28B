@@ -1,0 +1,53 @@
+
+data-driven testing:
+
+add screenshot to the report:
+when the testcase should fail attach related testcase to the report
+
+
+CODE implementation:
+
+1.tescase creation
+2.pom adopt
+3.log file 
+4.capture scrrenshots
+5.report generation
+6.properties file reading
+7.data driven testing
+
+2.Code Execution: execute our testcases into different ways
+
+4 ways:
+1.by using pom.xml file
+
+ step 1: download apache maven into your local system and set environment variables
+ step2: add 2 plugins into pom.xml file (maven-compiler plugin ,surefire plugin)
+ step3: run your testcases by using pom.xml file
+
+2.by using CMD
+
+ step1: go to your project location and open the cmd on that location
+ step 2: enter some command (mvn clean install) click on Enter 
+
+3.by using run.bat file
+
+step 1: go to project location
+step 2: create run.bat file
+step 3: add some commands into batch file(cd path of project, mvn install)
+
+4.by using jenkins:
+
+what is Jenkins:it is open-source CI/CD tool,
+the main purpose of this tool ,continuous integration and continous deployement /deliveribles
+
+agile methodologies
+
+
+ex: 2 features test==>sprint1
+    2 features test ==> sprint 2
+
+time schedulings ==> every friday ==>3:00 pm ==> failure message
+
+1day ==>automate  ==> developer (code changes) ==>day ==>3:00pm 
+
+jenkins: seamless execution tool(don't show any UI part,finally execution shoul be completed,then get the output of your program
